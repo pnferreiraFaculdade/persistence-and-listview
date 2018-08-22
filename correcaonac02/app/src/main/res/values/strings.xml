@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CorrecaoNAC02</string>
+    <string name="hamburgao_da_tia">Hamburgão da Tia</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="hamburg_o_do_z">Hamburgão do Zé</string>
+    <string name="hamburg_o_do_jo_o">Hamburgão do João</string>
+    <string name="comprar">Comprar</string>
+    <string name="quinzao">R$ 15,00</string>
+</resources>
